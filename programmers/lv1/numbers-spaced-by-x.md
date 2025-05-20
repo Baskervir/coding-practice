@@ -24,4 +24,4 @@ class Solution {
         return result;
     }
 }
-```ㅎ
+```g
