@@ -24,5 +24,5 @@ class Solution {
         // }
         return (num % 2 == 0) ? "Even" : "Odd";
     }
-}ㅎ
+}
 ```
